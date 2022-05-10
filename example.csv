@@ -1,0 +1,30 @@
+,domainId,sentence,label,serviceId,suggested_label,annotation
+0,14,open curtains,setcurtain,5f4f767745342f4a1f053baf,setcurtain,setcurtain
+1,14,open up curtains,setcurtain,5f4f767745342f4a1f053baf,setcurtain,setcurtain
+2,14,Open curtains,setcurtain,5f4f767745342f4a1f053baf,setcurtain,setcurtain
+3,14,close curtains,setcurtain,5f4f767745342f4a1f053baf,setcurtain,setcurtain
+4,14,close up curtains,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+5,14,Close curtains,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+6,14,Stop curtains,setcurtain,5f4f767745342f4a1f053baf,Beers,
+7,14,hold curtains,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+8,14,stop curtains,setcurtain,5f4f767745342f4a1f053baf,Beers,
+9,14,can you please open curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+10,14,can you please open up curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+11,14,can you please Open curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+12,14,can you please close curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+13,14,can you please close up curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+14,14,can you please Close curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+15,14,can you please Stop curtain,setcurtain,5f4f767745342f4a1f053baf,Beers,
+16,14,can you please hold curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+17,14,can you please stop curtain,setcurtain,5f4f767745342f4a1f053baf,Beers,
+27,14,open curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+28,14,open up curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+29,14,Open curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+30,14,close curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+31,14,close up curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+32,14,Close curtain,setcurtain,5f4f767745342f4a1f053baf,setcurtain,
+33,14,Stop curtain,setcurtain,5f4f767745342f4a1f053baf,Beers,
+34,14,hold curtain,setcurtain,5f4f767745342f4a1f053baf,Beers,
+35,14,stop curtain,setcurtain,5f4f767745342f4a1f053baf,Beers,
+36,14,romantic Ambience please,relax scene,5f4f767745342f4a1f053baf,setcurtain,
+37,14,Activate relax scene,relax scene,5f4f767745342f4a1f053baf,Beers,
