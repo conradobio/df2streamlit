@@ -59,10 +59,10 @@ class Module:
                 for df_col, st_col in zip(df.columns, cols):
 
                     if self.is_selectbox(df_col):
-                        st_col.selectbox(df_col.split(".")[0], row[df_col], key=f"{self.key}_{i}")
+                        st_col.selectbox(df_col.split(".")[0], row[df_col].unique(), key=f"{self.key}_{i}")
 
                     if self.is_multiselect(df_col):
-                        st_col.multiselect(df_col.split(".")[0], row[df_col], key=f"{self.key}_{i}")
+                        st_col.multiselect(df_col.split(".")[0], row[df_col].unique(), key=f"{self.key}_{i}")
 
                     if self.is_text_input(df_col):
                         st_col.text_input(df_col.split(".")[0], row[df_col], key=f"{row[df_col]}_{i}")
