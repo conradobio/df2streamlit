@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "df2streamlit"
+version = "0.1.0"
+description = "Convert Pandas DataFrame into Streamlit forms."
+authors = ["ogabrielluiz <gabrielf.almeida90@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+streamlit = "^1.9.0"
+pandas = "^1.4.2"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+flake8 = "^4.0.1"
+isort = "^5.10.1"
+pre-commit = "^2.19.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
